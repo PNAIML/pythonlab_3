@@ -1,0 +1,224 @@
+Here’s a **20-question multiple-choice question (MCQ) set** on machine learning algorithms: **Neural Networks, K-Means Clustering, and Support Vector Machines (SVMs)**.
+
+---
+
+### **1. Neural Networks**
+**Question:** What is the primary purpose of neural networks in machine learning?  
+A) Clustering unstructured data  
+B) Mimicking the human brain for pattern recognition  
+C) Organizing data into predefined categories  
+D) Encrypting data for security  
+
+**Correct Answer:** **B) Mimicking the human brain for pattern recognition**  
+
+---
+
+### **2. K-Means Clustering**  
+**Question:** K-Means clustering is classified as which type of learning?  
+A) Supervised Learning  
+B) Unsupervised Learning  
+C) Reinforcement Learning  
+D) Deep Learning  
+
+**Correct Answer:** **B) Unsupervised Learning**  
+
+---
+
+### **3. Support Vector Machines (SVMs)**  
+**Question:** What is the main goal of a Support Vector Machine (SVM)?  
+A) To classify data by maximizing the margin between different categories  
+B) To cluster data without labels  
+C) To create neural pathways for deep learning  
+D) To reduce noise from audio files  
+
+**Correct Answer:** **A) To classify data by maximizing the margin between different categories**  
+
+---
+
+### **4. Neural Networks**  
+**Question:** What is the function of an activation function in a neural network?  
+A) To determine whether neurons should be activated  
+B) To remove outliers from datasets  
+C) To classify images into clusters  
+D) To identify anomalies in transactions  
+
+**Correct Answer:** **A) To determine whether neurons should be activated**  
+
+---
+
+### **5. K-Means Clustering**  
+**Question:** What does the "K" represent in K-Means clustering?  
+A) The number of clusters  
+B) The learning rate of the algorithm  
+C) The number of epochs  
+D) The activation function type  
+
+**Correct Answer:** **A) The number of clusters**  
+
+---
+
+### **6. Support Vector Machines (SVMs)**  
+**Question:** What type of problem does an SVM primarily solve?  
+A) Classification and regression  
+B) Clustering and segmentation  
+C) Reinforcement-based learning  
+D) Data encryption  
+
+**Correct Answer:** **A) Classification and regression**  
+
+---
+
+### **7. Neural Networks**  
+**Question:** Which of the following is a common type of neural network?  
+A) Convolutional Neural Network (CNN)  
+B) K-Means Neural Network  
+C) SVM Neural Network  
+D) Decision Tree Neural Network  
+
+**Correct Answer:** **A) Convolutional Neural Network (CNN)**  
+
+---
+
+### **8. K-Means Clustering**  
+**Question:** What is a disadvantage of K-Means clustering?  
+A) It requires labeled data  
+B) It assumes clusters are spherical  
+C) It only works with large datasets  
+D) It cannot group similar data points  
+
+**Correct Answer:** **B) It assumes clusters are spherical**  
+
+---
+
+### **9. Support Vector Machines (SVMs)**  
+**Question:** What is the hyperplane in an SVM?  
+A) The decision boundary separating different classes  
+B) A function for clustering similar data points  
+C) The learning rate of a neural network  
+D) The node in a deep learning model  
+
+**Correct Answer:** **A) The decision boundary separating different classes**  
+
+---
+
+### **10. Neural Networks**  
+**Question:** What technique prevents overfitting in neural networks?  
+A) Dropout regularization  
+B) Using more epochs  
+C) Increasing the learning rate  
+D) Ignoring outliers  
+
+**Correct Answer:** **A) Dropout regularization**  
+
+---
+
+### **11. K-Means Clustering**  
+**Question:** Which step is crucial in K-Means clustering?  
+A) Choosing the correct number of clusters (K)  
+B) Using labeled training data  
+C) Applying reinforcement learning principles  
+D) Extracting text from documents  
+
+**Correct Answer:** **A) Choosing the correct number of clusters (K)**  
+
+---
+
+### **12. Support Vector Machines (SVMs)**  
+**Question:** What happens when an SVM uses a kernel trick?  
+A) It transforms non-linearly separable data into a higher dimension  
+B) It removes noise from the dataset  
+C) It speeds up training on deep networks  
+D) It converts labeled data into clusters  
+
+**Correct Answer:** **A) It transforms non-linearly separable data into a higher dimension**  
+
+---
+
+### **13. Neural Networks**  
+**Question:** What is backpropagation in a neural network?  
+A) A method for updating weights based on error correction  
+B) A clustering algorithm for organizing data  
+C) A feature extraction process  
+D) A form of reinforcement learning  
+
+**Correct Answer:** **A) A method for updating weights based on error correction**  
+
+---
+
+### **14. K-Means Clustering**  
+**Question:** When does K-Means clustering stop iterating?  
+A) When centroids no longer change significantly  
+B) When every data point has a label  
+C) When a deep learning model is fully trained  
+D) When reinforcement learning is complete  
+
+**Correct Answer:** **A) When centroids no longer change significantly**  
+
+---
+
+### **15. Support Vector Machines (SVMs)**  
+**Question:** What is the role of support vectors in an SVM?  
+A) They are data points that help define the decision boundary  
+B) They determine the learning rate of the model  
+C) They control overfitting in clustering  
+D) They serve as layers in a neural network  
+
+**Correct Answer:** **A) They are data points that help define the decision boundary**  
+
+---
+
+### **16. Neural Networks**  
+**Question:** Which layer in a deep neural network performs feature extraction?  
+A) Hidden layer  
+B) Input layer  
+C) Output layer  
+D) Kernel layer  
+
+**Correct Answer:** **A) Hidden layer**  
+
+---
+
+### **17. K-Means Clustering**  
+**Question:** What type of distance measure is commonly used in K-Means clustering?  
+A) Euclidean distance  
+B) Hamming distance  
+C) Manhattan distance  
+D) Cosine similarity  
+
+**Correct Answer:** **A) Euclidean distance**  
+
+---
+
+### **18. Support Vector Machines (SVMs)**  
+**Question:** What does an SVM try to maximize when creating a classification boundary?  
+A) Margin between different classes  
+B) Cluster similarity  
+C) Training speed  
+D) Feature extraction  
+
+**Correct Answer:** **A) Margin between different classes**  
+
+---
+
+### **19. Neural Networks**  
+**Question:** Why are deep neural networks used for image recognition?  
+A) They extract hierarchical features from images  
+B) They rely solely on clustering  
+C) They use kernel functions for classification  
+D) They remove noise from audio files  
+
+**Correct Answer:** **A) They extract hierarchical features from images**  
+
+---
+
+### **20. General Comparison**  
+**Question:** Which of the following statements is **true**?  
+A) Neural networks are used for deep learning, while SVMs perform classification  
+B) K-Means clustering requires labeled data  
+C) Support Vector Machines are used for clustering  
+D) Neural networks only work with tabular data  
+
+**Correct Answer:** **A) Neural networks are used for deep learning, while SVMs perform classification**  
+
+
+

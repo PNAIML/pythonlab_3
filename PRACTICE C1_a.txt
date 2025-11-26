@@ -1,0 +1,224 @@
+Here's a set of **20 multiple-choice questions (MCQs)** covering machine learning and its types: **Supervised Learning, Unsupervised Learning, and Reinforcement Learning**.
+
+---
+
+### **1. General Machine Learning**  
+**Question:** What is the primary goal of machine learning?  
+A) To enable computers to learn from data without explicit programming  
+B) To replace human intelligence completely  
+C) To develop only rule-based systems  
+D) To eliminate all forms of human interaction  
+
+**Correct Answer:** **A) To enable computers to learn from data without explicit programming**  
+
+---
+
+### **2. Supervised Learning**  
+**Question:** Which of the following is a key characteristic of supervised learning?  
+A) Training with labeled data  
+B) No predefined categories for data  
+C) Learning through trial and error  
+D) Data is randomly assigned  
+
+**Correct Answer:** **A) Training with labeled data**  
+
+---
+
+### **3. Unsupervised Learning**  
+**Question:** What is the main objective of unsupervised learning?  
+A) To learn patterns and structures from unlabeled data  
+B) To follow strict rules given by programmers  
+C) To only predict future trends  
+D) To perform reinforcement-based tasks  
+
+**Correct Answer:** **A) To learn patterns and structures from unlabeled data**  
+
+---
+
+### **4. Reinforcement Learning**  
+**Question:** Reinforcement learning is mainly based on which principle?  
+A) Learning from rewards and penalties  
+B) Using labeled datasets for training  
+C) Assigning pre-defined clusters to data  
+D) Ignoring previous experiences  
+
+**Correct Answer:** **A) Learning from rewards and penalties**  
+
+---
+
+### **5. General Machine Learning**  
+**Question:** Which type of machine learning is commonly used for classification tasks?  
+A) Supervised Learning  
+B) Unsupervised Learning  
+C) Reinforcement Learning  
+D) None of the above  
+
+**Correct Answer:** **A) Supervised Learning**  
+
+---
+
+### **6. Supervised Learning**  
+**Question:** Which of the following is an example of supervised learning?  
+A) Spam email detection  
+B) Customer segmentation  
+C) Game-playing AI  
+D) Clustering news articles  
+
+**Correct Answer:** **A) Spam email detection**  
+
+---
+
+### **7. Unsupervised Learning**  
+**Question:** Which algorithm is commonly used in unsupervised learning?  
+A) K-Means Clustering  
+B) Decision Trees  
+C) Linear Regression  
+D) Q-Learning  
+
+**Correct Answer:** **A) K-Means Clustering**  
+
+---
+
+### **8. Reinforcement Learning**  
+**Question:** What is the role of an agent in reinforcement learning?  
+A) It makes decisions based on rewards and penalties  
+B) It categorizes data using labeled examples  
+C) It removes noise from datasets  
+D) It only works with supervised data  
+
+**Correct Answer:** **A) It makes decisions based on rewards and penalties**  
+
+---
+
+### **9. General Machine Learning**  
+**Question:** Which of the following is NOT a type of machine learning?  
+A) Supervised Learning  
+B) Unsupervised Learning  
+C) Reinforcement Learning  
+D) Hardware Learning  
+
+**Correct Answer:** **D) Hardware Learning**  
+
+---
+
+### **10. Supervised Learning**  
+**Question:** Which dataset characteristic is important for supervised learning?  
+A) Having labeled input and output data  
+B) Being completely random  
+C) Having no structure  
+D) Being learned through rewards  
+
+**Correct Answer:** **A) Having labeled input and output data**  
+
+---
+
+### **11. Unsupervised Learning**  
+**Question:** Which method does unsupervised learning primarily use?  
+A) Clustering  
+B) Regression  
+C) Classification  
+D) Supervision-based predictions  
+
+**Correct Answer:** **A) Clustering**  
+
+---
+
+### **12. Reinforcement Learning**  
+**Question:** What is a common application of reinforcement learning?  
+A) Training AI to play games  
+B) Identifying fraudulent transactions  
+C) Categorizing customer reviews  
+D) Generating music recommendations  
+
+**Correct Answer:** **A) Training AI to play games**  
+
+---
+
+### **13. General Machine Learning**  
+**Question:** Which of the following is an example of machine learning in daily life?  
+A) Personalized movie recommendations  
+B) Manual database updates  
+C) Fixed-rule programming  
+D) Traditional hand-coded calculations  
+
+**Correct Answer:** **A) Personalized movie recommendations**  
+
+---
+
+### **14. Supervised Learning**  
+**Question:** Which algorithm is commonly used in supervised learning?  
+A) Decision Trees  
+B) K-Means Clustering  
+C) Apriori Algorithm  
+D) Neural Style Transfer  
+
+**Correct Answer:** **A) Decision Trees**  
+
+---
+
+### **15. Unsupervised Learning**  
+**Question:** Which type of learning is often used for anomaly detection?  
+A) Unsupervised Learning  
+B) Supervised Learning  
+C) Reinforcement Learning  
+D) None of the above  
+
+**Correct Answer:** **A) Unsupervised Learning**  
+
+---
+
+### **16. Reinforcement Learning**  
+**Question:** Which concept is key to reinforcement learning?  
+A) Reward maximization  
+B) Data labeling  
+C) Pre-defined clusters  
+D) Immediate prediction  
+
+**Correct Answer:** **A) Reward maximization**  
+
+---
+
+### **17. General Machine Learning**  
+**Question:** Machine learning models improve their accuracy by:  
+A) Training on large datasets  
+B) Ignoring past mistakes  
+C) Using random guesses  
+D) Eliminating labeled data  
+
+**Correct Answer:** **A) Training on large datasets**  
+
+---
+
+### **18. Supervised Learning**  
+**Question:** Which is a common application of supervised learning?  
+A) Face recognition  
+B) Identifying groups in unlabeled data  
+C) Learning strategies for autonomous robots  
+D) Playing board games using AI  
+
+**Correct Answer:** **A) Face recognition**  
+
+---
+
+### **19. Unsupervised Learning**  
+**Question:** Unsupervised learning is often used for:  
+A) Customer segmentation  
+B) Predicting stock prices  
+C) Playing chess  
+D) Performing medical diagnoses  
+
+**Correct Answer:** **A) Customer segmentation**  
+
+---
+
+### **20. Reinforcement Learning**  
+**Question:** What makes reinforcement learning different from other types of learning?  
+A) It learns through interactions with the environment  
+B) It only works with labeled datasets  
+C) It does not improve over time  
+D) It never uses reward-based systems  
+
+**Correct Answer:** **A) It learns through interactions with the environment**  
+
+
+
