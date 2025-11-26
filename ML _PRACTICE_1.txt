@@ -1,0 +1,175 @@
+
+Q.Which of the following best describes machine learning?
+ A technique for programming computers to perform specific tasks
+ A method for analyzing data to make predictions or decisions without explicit programming
+ A system for storing and retrieving large amounts of data
+A way to design user interfaces for applications
+
+
+
+
+
+
+
+
+
+
+
+Accepted Answers:
+A method for analyzing data to make predictions or decisions without explicit programming
+
+
+Q.Using historical sales data to forecast future sales is an example of:
+ Data Storage
+ Machine Learning
+ Network Security
+ Software Development
+
+
+
+
+
+
+
+
+
+Accepted Answers:
+Machine Learning
+
+Q.Training a model to recognize speech patterns and convert spoken words into text is an example of:
+ Data Encryption
+ Machine Learning
+ Database Management
+ Web Development
+
+
+
+
+
+
+
+
+
+Accepted Answers:
+Machine Learning
+1 point
+Q.Which of the following scenarios involves machine learning
+ Manually calculating the average sales per month
+ Writing a program with fixed rules to sort emails
+ Using algorithms to automatically detect fraudulent transactions
+ Creating a static website using HTML and CSS
+
+
+
+
+
+
+
+
+
+Accepted Answers:
+Using algorithms to automatically detect fraudulent transactions
+1 point
+Q.Which of these activities is not typically associated with machine learning
+ Developing a model to predict stock prices
+ Using algorithms to cluster customer data for marketing
+ Manually entering data into a spreadsheet
+ Classifying images into different categories
+
+
+
+
+
+
+
+
+
+
+Accepted Answers:
+Manually entering data into a spreadsheet
+1 point
+Q.Which task would most likely require machine learning
+ Sorting files by name in a folder
+ Predicting which customers are likely to cancel a subscription
+ Writing a document using a word processor
+ Designing a logo for a company
+
+
+
+
+
+
+
+
+
+
+Accepted Answers:
+Predicting which customers are likely to cancel a subscription
+1 point
+Q.Which of the following is a key benefit of using machine learning
+ Automates repetitive tasks
+ Eliminates the need for data
+ Guarantees 100% accuracy
+ Requires no maintenance
+
+
+
+
+
+
+
+
+
+Accepted Answers:
+Automates repetitive tasks
+
+Q.Machine learning algorithms improve their performance by
+ Being explicitly programmed with all necessary rules
+ Learning from data and identifying patterns
+ Randomly guessing and checking answers
+ Using a predefined set of instructions
+
+
+
+
+
+
+
+
+
+Accepted Answers:
+Learning from data and identifying patterns
+
+Q.Which of the following applications is most likely powered by machine learning
+ A calculator app
+ A photo editing software
+ An email spam filter
+ A text editor
+
+
+
+
+
+
+
+
+Accepted Answers:
+An email spam filter
+
+Q.Which statement is true about machine learning
+ It requires large amounts of data to be effective
+ It always provides perfect predictions
+ It can only be used for image processing
+ It does not require any human intervention
+
+
+
+
+
+
+
+
+
+
+Accepted Answers:
+It requires large amounts of data to be effective

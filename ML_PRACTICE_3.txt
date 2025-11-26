@@ -1,0 +1,109 @@
+Identifying Scenarios for supervised learning
+
+A company wants to predict the future sales of their product based on past sales data. Which machine learning model should they use?
+ Classification
+ Regression
+ Clustering
+ Dimensionality Reduction
+
+Accepted Answers:
+Regression
+
+A hospital wants to determine if a patient has a disease based on various health metrics. Which machine learning model is appropriate?
+ Regression
+ Classification
+ Clustering
+ Dimensionality Reduction
+
+Accepted Answers:
+Classification
+
+In a supervised learning task, the goal is to predict a continuous output variable. Which of the following would be appropriate?
+ Decision Tree Classifier
+ K-Means Clustering
+ Linear Regression
+ Principal Component Analysis
+
+Accepted Answers:
+Linear Regression
+
+A researcher is using historical temperature data to predict future temperatures. What type of problem is this?
+ Classification
+ Regression
+ Clustering
+ Reinforcement Learning
+
+Accepted Answers:
+Regression
+
+A bank wants to predict whether a loan applicant will default on a loan. Which type of model should they use?
+ Regression
+ Classification
+ Clustering
+ Association Rule Learning
+
+Accepted Answers:
+Classification
+
+A medical diagnosis system needs to determine if an X-ray image shows signs of pneumonia. What type of machine learning model should be used?
+ Regression
+ Classification
+ Clustering
+ Association Rule Learning
+
+Accepted Answers:
+Classification
+1 point
+A business wants to segment its customers into distinct groups based on purchasing behavior. Which machine learning approach is suitable?
+ Classification
+ Regression
+ Clustering
+ Supervised Learning
+
+Accepted Answers:
+Clustering
+1 point
+Which type of learning involves training a model on labeled data?
+ Unsupervised Learning
+ Reinforcement Learning
+ Supervised Learning
+ Semi-supervised Learning
+
+Accepted Answers:
+Supervised Learning
+
+A data scientist is training a model to predict house prices. What kind of machine learning problem is this?
+ Classification
+ Regression
+ Clustering
+ Anomaly Detection
+
+Accepted Answers:
+Regression
+
+The public health organization wants to predict the likelihood of disease outbreaks in various regions based on historical disease incidence reports, weather patterns, population density, sanitation levels, and social media trends. Which machine learning approach should they use?
+ Unsupervised Learning
+ Reinforcement Learning
+ Supervised Learning
+ Semi-supervised Learning
+
+Accepted Answers:
+Supervised Learning
+
+The public health organization wants to predict the likelihood of disease outbreaks in various regions based on historical disease incidence reports, weather patterns, population density, sanitation levels, and social media trends. Which machine learning approach should they use?
+ Supervised Learning - Regression
+ Supervised Learning - Classification
+ Unsupervised Learning - Clustering
+ Unsupervised Learning - Anomaly Detection
+
+Accepted Answers:
+Supervised Learning - Classification
+
+The healthcare provider wants to predict the cost of readmission for patients who are likely to return to the hospital within 30 days of discharge based on patient demographics, medical history, treatment plans, initial hospitalization costs, and follow-up care details. Which machine learning approach should they use?
+ Supervised Learning - Regression
+ Supervised Learning - Classification
+ Unsupervised Learning - Clustering
+ Unsupervised Learning - Anomaly Detection
+
+Accepted Answers:
+Supervised Learning - Regression

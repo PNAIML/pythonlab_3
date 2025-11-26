@@ -1,0 +1,105 @@
+
+1 point
+You are developing an autonomous driving system. Which combination of machine learning techniques would you use to ensure safe and efficient navigation?
+ Supervised Learning for object detection, Unsupervised Learning for anomaly detection, Reinforcement Learning for decision-making
+ Supervised Learning for decision-making, Unsupervised Learning for object detection, Reinforcement Learning for anomaly detection
+ Supervised Learning for anomaly detection, Unsupervised Learning for decision-making, Reinforcement Learning for object detection
+ Supervised Learning for decision-making, Unsupervised Learning for anomaly detection, Reinforcement Learning for object detection
+
+Accepted Answers:
+Supervised Learning for object detection, Unsupervised Learning for anomaly detection, Reinforcement Learning for decision-making
+1 point
+E-commerce Recommendation SystemYou are developing a recommendation system for an online shopping platform. Which combination of machine learning techniques would you use to tailor product suggestions to individual users?
+ Supervised Learning for user segmentation, Unsupervised Learning for purchase prediction, Reinforcement Learning for real-time optimization
+ Supervised Learning for purchase prediction, Unsupervised Learning for user segmentation, Reinforcement Learning for real-time optimization
+ Supervised Learning for real-time optimization, Unsupervised Learning for user segmentation, Reinforcement Learning for purchase prediction
+ Supervised Learning for user segmentation, Unsupervised Learning for real-time optimization, Reinforcement Learning for purchase prediction
+
+Accepted Answers:
+Supervised Learning for purchase prediction, Unsupervised Learning for user segmentation, Reinforcement Learning for real-time optimization
+1 point
+Modern chess-computers use the following to always make the best move
+ Supervised Learning
+ Reinforcement learning
+ Both
+ Neither
+
+Accepted Answers:
+Both
+1 point
+Clustering similar news articles together based on their content
+ Supervised Learning
+ Reinforcement learning
+ Unsupervised learning
+ Neither
+
+Accepted Answers:
+Unsupervised learning
+1 point
+Grouping images of handwritten digits into clusters based on their pixel values
+ Supervised Learning
+ Reinforcement learning
+ Unsupervised learning
+ Neither
+
+Accepted Answers:
+Unsupervised learning
+1 point
+You are building a chatbot that learns to interact with users and provide relevant responses based on user input. The chatbot should improve its conversational skills over time through feedback on its interactions. Which type of machine learning approach is most appropriate?
+ Supervised Learning
+ Unsupervised Learning
+ Reinforcement Learning
+
+Accepted Answers:
+Reinforcement Learning
+1 point
+You are working with a dataset containing customer purchase histories. Your goal is to create a model that can segment customers into distinct groups based on their purchasing patterns, with no prior labels or categories provided. Which type of machine learning approach is most suitable?
+ Supervised Learning
+ Unsupervised Learning
+ Reinforcement Learning
+
+Accepted Answers:
+Unsupervised Learning
+1 point
+You want to develop an AI-driven financial trading algorithm. The algorithm must learn to buy and sell stocks to maximize profit based on past trading data and current market conditions. The AI should improve its strategy over time through trial and error. Which type of machine learning approach should you use?
+ Supervised Learning
+ Unsupervised Learning
+ Reinforcement Learning
+
+Accepted Answers:
+Reinforcement Learning
+1 point
+You are given a large dataset of time series data from different sensors in a manufacturing plant. You need to predict equipment failures by learning from past sensor data where the failure times are labeled. However, the relationships between sensor readings and failures are complex and not directly evident. Which type of machine learning approach is most appropriate?
+ Supervised Learning
+ Unsupervised Learning
+ Reinforcement Learning
+
+Accepted Answers:
+Supervised Learning
+1 point
+You are developing a healthcare diagnosis system to assist doctors in diagnosing diseases. Which combination of machine learning techniques would you use?
+ Supervised Learning for patient grouping, Unsupervised Learning for diagnosis, Reinforcement Learning for treatment recommendations
+ Supervised Learning for diagnosis, Unsupervised Learning for patient grouping, Reinforcement Learning for treatment recommendations
+ Supervised Learning for treatment recommendations, Unsupervised Learning for diagnosis, Reinforcement Learning for patient grouping
+ Supervised Learning for diagnosis, Unsupervised Learning for treatment recommendations, Reinforcement Learning for patient grouping
+
+Accepted Answers:
+Supervised Learning for diagnosis, Unsupervised Learning for patient grouping, Reinforcement Learning for treatment recommendations
+1 point
+You are developing an autonomous driving system. Which combination of machine learning techniques would you use to ensure safe and efficient navigation?
+ Supervised Learning for object detection, Unsupervised Learning for anomaly detection, Reinforcement Learning for decision-making
+ Supervised Learning for decision-making, Unsupervised Learning for object detection, Reinforcement Learning for anomaly detection
+ Supervised Learning for anomaly detection, Unsupervised Learning for decision-making, Reinforcement Learning for object detection
+ Supervised Learning for decision-making, Unsupervised Learning for anomaly detection, Reinforcement Learning for object detection
+
+Accepted Answers:
+Supervised Learning for object detection, Unsupervised Learning for anomaly detection, Reinforcement Learning for decision-making
+1 point
+E-commerce Recommendation SystemYou are developing a recommendation system for an online shopping platform. Which combination of machine learning techniques would you use to tailor product suggestions to individual users?
+ Supervised Learning for user segmentation, Unsupervised Learning for purchase prediction, Reinforcement Learning for real-time optimization
+ Supervised Learning for purchase prediction, Unsupervised Learning for user segmentation, Reinforcement Learning for real-time optimization
+ Supervised Learning for real-time optimization, Unsupervised Learning for user segmentation, Reinforcement Learning for purchase prediction
+ Supervised Learning for user segmentation, Unsupervised Learning for real-time optimization, Reinforcement Learning for purchase prediction
+
+Accepted Answers:
+Supervised Learning for purchase prediction, Unsupervised Learning for user segmentation, Reinforcement Learning for real-time optimization
